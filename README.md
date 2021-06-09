@@ -13,5 +13,5 @@ En el presente proyecto se realiza la configuracion del dispositivo IoT Edge, se
 | Documentos     | Links |
 | ------------- | ------------- |
 | Documento Final|[Informe.pdf](https://github.com/marcolo-30/Azure-IoT-edge-Smart-Parking/blob/main/Proyecto%20final%20-%20Topicos%20avanzados%20IoT.pdf) |
-| Módulo implementado |[App.py]() |
+| Módulo implementado |[ParkingModule.py](https://github.com/marcolo-30/Azure-IoT-edge-Smart-Parking/blob/main/ParkingModule.py) |
 | Demo Funcionamiento |[Demo](https://youtu.be/j5lvolaYRAY) |
